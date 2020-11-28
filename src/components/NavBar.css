@@ -1,0 +1,69 @@
+.navbar {
+  background-color: #060d15;
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 90%;
+  width: 220px;
+  display: block;
+  z-index: 5;
+}
+.btnsign-up {
+  position: absolute;
+  left: 15px;
+  bottom: 120px;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  height: 25px;
+  width: 190px;
+  white-space: normal;
+  letter-spacing: 2px;
+  font-family: "Circular-bold";
+  border-radius: 50px;
+  font-size: 11px;
+  margin-top: 320px;
+  padding: 14px 14px 14px;
+  text-transform: uppercase;
+  background-color: white;
+  color: black;
+  border-color: white;
+}
+.btnsign-up:hover {
+  background-color: #1db954;
+  border-color: white;
+  color: white;
+}
+.btnsign-up:focus {
+  outline: none;
+}
+.btnlogin {
+  position: absolute;
+  left: 15px;
+  bottom: 70px;
+  height: 25px;
+  width: 190px;
+  padding: 14px 14px 14px;
+  text-transform: uppercase;
+  background-color: rgb(24, 21, 21);
+  border-color: white;
+  color: white;
+  white-space: normal;
+  letter-spacing: 2px;
+  font-family: "Circular-bold";
+  border-radius: 50px;
+  font-size: 11px;
+  margin-top: 350px;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  margin-bottom: 0;
+}
+.btnlogin:hover {
+  background-color: #1db954;
+  border-color: white;
+  color: white;
+}
+.btnlogin:focus {
+  outline: none;
+}
