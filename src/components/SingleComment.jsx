@@ -15,7 +15,7 @@ class SingleComment extends React.Component {
           method: "DELETE",
           headers: {
             Authorization:
-              "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1ZmI2N2UzZjk4MzViMDAwMTc1ODRlZmUiLCJpYXQiOjE2MDU3OTUzOTIsImV4cCI6MTYwNzAwNDk5Mn0.DfmIOMUkFDOn23K1S3KRRfRDXdq3PuQ85LIP5I7piVI",
+              "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1ZmMyODMxZjk1YTU0MTAwMTc2ZTFhMmQiLCJpYXQiOjE2MDY1ODMwNzEsImV4cCI6MTYwNzc5MjY3MX0.SK0ZjJJP36C1pMQ3nh3ZE85_GUljO4haPUFyVTeYIHc",
           },
         }
       );
